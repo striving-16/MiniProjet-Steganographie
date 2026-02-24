@@ -36,7 +36,4 @@ L’image stégo est visuellement identique à l’image originale.
 2. Exécuter toutes les cellules
 3. Observer le message extrait
 
----
 
-## 📎 Lien Colab (optionnel)
-Vous pouvez ouvrir ce notebook directement dans Colab.
